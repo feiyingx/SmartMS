@@ -1,4 +1,4 @@
-SmartMS
+SmartMS (Smart SMS)
 =======
 
 SmartMS - Twilio Project
