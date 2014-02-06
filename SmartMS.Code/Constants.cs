@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace SmartMS.Code
 {
-    class Constants
+    public class Constants
     {
+        public class ContentType
+        {
+            public static String XML = "text/xml";
+        }
     }
 }
