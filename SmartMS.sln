@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMS", "SmartMS\SmartMS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BARTSharp", "BARTSharp\BARTSharp.csproj", "{C6271CE9-58EC-4143-B764-43DAC66C6908}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMS.Code", "SmartMS.Code\SmartMS.Code.csproj", "{F944072C-B885-4A14-81FF-DF39704D45FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{C6271CE9-58EC-4143-B764-43DAC66C6908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6271CE9-58EC-4143-B764-43DAC66C6908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6271CE9-58EC-4143-B764-43DAC66C6908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F944072C-B885-4A14-81FF-DF39704D45FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F944072C-B885-4A14-81FF-DF39704D45FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F944072C-B885-4A14-81FF-DF39704D45FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F944072C-B885-4A14-81FF-DF39704D45FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
